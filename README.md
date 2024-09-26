@@ -1,2 +1,2 @@
 # HTBLame
-HTB Lame
+Resolucion de Maquina Lame en Hack The Box
